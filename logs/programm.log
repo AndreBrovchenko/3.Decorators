@@ -1,0 +1,5 @@
+26.12.2021 20:47:05	имя функции:division	аргументы args:(6, 1)	аргументы kwargs:{}	возвращаемое значение:6.0
+26.12.2021 20:47:05	имя функции:calculate_salary	аргументы args:('John',)	аргументы kwargs:{}	возвращаемое значение:2021-12-26: calculate salary for John
+26.12.2021 20:47:05	имя функции:get_employees	аргументы args:('bookkeeping',)	аргументы kwargs:{}	возвращаемое значение:2021-12-26: department staff: bookkeeping
+26.12.2021 20:47:05	имя функции:calculate_salary	аргументы args:('Smitt',)	аргументы kwargs:{}	возвращаемое значение:2021-12-26: calculate salary for Smitt
+26.12.2021 20:47:05	имя функции:get_employees	аргументы args:('economic department ',)	аргументы kwargs:{}	возвращаемое значение:2021-12-26: department staff: economic department 
