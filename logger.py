@@ -25,7 +25,7 @@ def logger(sleep_time, n_tries, error_handler, log_dir=''):
                                f'аргументы args:{arguments_args}\tаргументы kwargs:{arguments_kwargs}\t' \
                                f'возвращаемое значение:{value_return}'
                     # print(line_log)
-                    with open(log_path, 'a') as files_out:
+                    with open(log_path, 'a', encoding="utf-8") as files_out:
                         files_out.write(line_log + '\n')
                     return value_return
                 except Exception as er:

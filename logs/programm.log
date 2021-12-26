@@ -1,5 +1,5 @@
-26.12.2021 20:47:05	имя функции:division	аргументы args:(6, 1)	аргументы kwargs:{}	возвращаемое значение:6.0
-26.12.2021 20:47:05	имя функции:calculate_salary	аргументы args:('John',)	аргументы kwargs:{}	возвращаемое значение:2021-12-26: calculate salary for John
-26.12.2021 20:47:05	имя функции:get_employees	аргументы args:('bookkeeping',)	аргументы kwargs:{}	возвращаемое значение:2021-12-26: department staff: bookkeeping
-26.12.2021 20:47:05	имя функции:calculate_salary	аргументы args:('Smitt',)	аргументы kwargs:{}	возвращаемое значение:2021-12-26: calculate salary for Smitt
-26.12.2021 20:47:05	имя функции:get_employees	аргументы args:('economic department ',)	аргументы kwargs:{}	возвращаемое значение:2021-12-26: department staff: economic department 
+26.12.2021 21:34:54	РёРјСЏ С„СѓРЅРєС†РёРё:division	Р°СЂРіСѓРјРµРЅС‚С‹ args:(6, 1)	Р°СЂРіСѓРјРµРЅС‚С‹ kwargs:{}	РІРѕР·РІСЂР°С‰Р°РµРјРѕРµ Р·РЅР°С‡РµРЅРёРµ:6.0
+26.12.2021 21:34:54	РёРјСЏ С„СѓРЅРєС†РёРё:calculate_salary	Р°СЂРіСѓРјРµРЅС‚С‹ args:('John',)	Р°СЂРіСѓРјРµРЅС‚С‹ kwargs:{}	РІРѕР·РІСЂР°С‰Р°РµРјРѕРµ Р·РЅР°С‡РµРЅРёРµ:2021-12-26: calculate salary for John
+26.12.2021 21:34:54	РёРјСЏ С„СѓРЅРєС†РёРё:get_employees	Р°СЂРіСѓРјРµРЅС‚С‹ args:('bookkeeping',)	Р°СЂРіСѓРјРµРЅС‚С‹ kwargs:{}	РІРѕР·РІСЂР°С‰Р°РµРјРѕРµ Р·РЅР°С‡РµРЅРёРµ:2021-12-26: department staff: bookkeeping
+26.12.2021 21:34:54	РёРјСЏ С„СѓРЅРєС†РёРё:calculate_salary	Р°СЂРіСѓРјРµРЅС‚С‹ args:('Smith',)	Р°СЂРіСѓРјРµРЅС‚С‹ kwargs:{}	РІРѕР·РІСЂР°С‰Р°РµРјРѕРµ Р·РЅР°С‡РµРЅРёРµ:2021-12-26: calculate salary for Smith
+26.12.2021 21:34:54	РёРјСЏ С„СѓРЅРєС†РёРё:get_employees	Р°СЂРіСѓРјРµРЅС‚С‹ args:('economic department ',)	Р°СЂРіСѓРјРµРЅС‚С‹ kwargs:{}	РІРѕР·РІСЂР°С‰Р°РµРјРѕРµ Р·РЅР°С‡РµРЅРёРµ:2021-12-26: department staff: economic department 
